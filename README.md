@@ -21,8 +21,6 @@
    6. CSS
 
 ## Author :
-   - Akash Deep
-   - Email: ad3500476@gmail.com
+   - Aparna
+   - Email: aparnaanand058@gmail.com
 
-## Link :
-   url : https://weather-widget-jack.netlify.app/
